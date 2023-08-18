@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e4780/)**
 <!-- run online end -->
 
-This example demonstrates how to implement a method that returns a list of child [data editor](https://docs.devexpress.com/AspNet/7898/components/data-editors/product-information#included-components) placed in a parent container.
+This example demonstrates how to implement a method that returns a list of child [data editors](https://docs.devexpress.com/AspNet/7898/components/data-editors/product-information#included-components) placed in a parent container.
 
 ```aspx
 private static List<ASPxEdit> GetChildControls(object Container, List<ASPxEdit> controlsList, Func<Control, bool> predicate) {
