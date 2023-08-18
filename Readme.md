@@ -6,7 +6,7 @@
 
 # ASP.NET Web Forms - How to get all DevExpress data editors in a container
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4780/)**
+**[[Run Online]](https://codecentral.devexpress.com/128531633/)**
 <!-- run online end -->
 
 This example demonstrates how to implement a method that returns a list of child [data editors](https://docs.devexpress.com/AspNet/7898/components/data-editors/product-information#included-components) placed in a parent container.
